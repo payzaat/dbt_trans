@@ -1,8 +1,0 @@
-test-prof:
-  target: dwbq
-  outputs:
-    your_target_name:
-      type: bigquery
-      project: teeela-analytics
-      dataset: Airbyte
-      threads: 1
