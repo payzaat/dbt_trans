@@ -1,8 +1,8 @@
-your_profile_name:
-  target: your_target_name
+test-prof:
+  target: dwbq
   outputs:
     your_target_name:
-      type: your_target_type
-      project: your_project_name
-      dataset: your_dataset_name
+      type: bigquery
+      project: teeela-analytics
+      dataset: Airbyte
       threads: 1
