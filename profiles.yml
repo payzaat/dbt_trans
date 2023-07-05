@@ -1,0 +1,8 @@
+your_profile_name:
+  target: your_target_name
+  outputs:
+    your_target_name:
+      type: your_target_type
+      project: your_project_name
+      dataset: your_dataset_name
+      threads: 1
